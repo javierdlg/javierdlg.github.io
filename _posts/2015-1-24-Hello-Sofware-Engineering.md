@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New year, new Downing class
+title: New year, new Downing class - Week 1
 ---
 
 First week with my new Downing class and I have started to remember why I decided to take Downing for a second time. Even though his classes are tough, they are very rewarding to those who put the effort into it. I had such a great time with CS 371P (Object Oriented Programming) that I wished to take it a second time only to be sure that I took in all the information Downing was raining upon us. And now with this class I feel it is going to be the same way. I was skeptical at first about the 5-man projects written on python, but after considering it for a while I cannot think of a better way to show how modern programming teams work by sharing code and assigning small tasks to individual members. I really look forward for these projects and I hope they aren’t the same as the OOP class projects. I would love to have a new challenge and be able to show my abilities on Python in a different way I did las semester. My only preoccupation is the fact that I only have a limited knowledge of Python and of its structure, so I hope it isn’t a language too hard for me to learn.
