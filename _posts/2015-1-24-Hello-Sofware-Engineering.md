@@ -13,3 +13,5 @@ Since this class is in Python and I have a strong C++ background, I find it very
 
 \- Javier
 
+Reminder to self: make a better theme for this blog... pure white might burn some people's eyes.
+
