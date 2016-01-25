@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a senior at UT Austin currently persuing a B.S. in Computer Science. I transferred to UT about 3 years ago and I am hopefully gratuating in December 2016. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[javier.delagarza@gmail.com](mailto:javier.delagarza@gmail.com)
