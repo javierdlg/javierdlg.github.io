@@ -7,5 +7,5 @@ First week with my new Downing class and I have started to remember why I decide
 
 Now that the syllabus week is over, I am planning on getting ahead and finish the project ahead of time so that I don't get caught off-guard by the Friday deadline and end up with many projects, homeworks, and assigments all piled up on a single day. Lets hope this class goes great like all my other CS classes.
 
-- J
+\- Javier
 
