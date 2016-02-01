@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collatz Dragon SLAYED - Week 1
+title: Collatz Dragon SLAYED - Week 2
 ---
 You heard that right! The collatz project due on Thursday is done! Quite the experience since this is my first big python project. At first I was skeptical about python since I've seen it as a very innefficient language. But now that I've played with it for a while I must admit that it really cuts down development time. By the end of the project my biggest problem was remembering to add the ":" at the end of my if and for loops. Nevertheless, I am glad I decided to take CS 373 eventhough it's in Python.
 
