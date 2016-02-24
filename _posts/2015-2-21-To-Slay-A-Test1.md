@@ -16,5 +16,5 @@ Now that we have a test next week I am more fearful than ever. Exams are the ban
 
 \- Javier
 
-####Tip of the week:
+###Tip of the week:
 Tests are literally coding problems where small details can slip through. I always recommend taking notes of the small things Downing says in class, these usually appear in tests. 
