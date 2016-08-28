@@ -17,7 +17,7 @@ This semester will prove to be the hardest yet since I have no more second chanc
 
 This week's class experience was pretty cool. Since I have taken Downing's class before I know what to expect, but I found it satisfying to also help other students understand how the class works and what to expect from Downing.
 
-#####Tip of the week:
+##### Tip of the week:
 Who doesn't love hacking? Or at least the idea that goes behind hacking. I found this game called [Hacknet](http://store.steampowered.com/app/365450/) on Steam almost a year ago and I can honestly say its a great game that introduces people into what "hacking" really is. It may not work on real life situations, but its close to home and uses real life examples of old hacking tools as the in-game tools. Pretty awesome and I enjoyed it quite a bit. 
 
 \- Javier
